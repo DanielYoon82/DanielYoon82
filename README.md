@@ -5,7 +5,9 @@
 
   - [Update a File Through Python Algorithm](https://github.com/joshmadakor1/Algorithms-Practice)
 
+<h2>📜 Certifications</h2>
 
+- [Google Cybersecurity Certficate](https://www.coursera.org/account/accomplishments/specialization/certificate/1N7E1T2Y8IP2)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
