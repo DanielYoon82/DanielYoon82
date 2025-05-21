@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Update a File Through Python Algorithm](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Update a File Through Python Algorithm](https://github.com/DanielYoon82/UpdateFileWithPython)
 
 <h2>📜 Certifications</h2>
 
