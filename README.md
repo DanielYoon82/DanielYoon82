@@ -4,6 +4,7 @@
 
 
   - [Update a File Through Python Algorithm](https://github.com/DanielYoon82/UpdateFileWithPython)
+  - [File Permissions in Linux](https://github.com/DanielYoon82/FilePermissionsInLinux)
 
 <h2>📜 Certifications</h2>
 
