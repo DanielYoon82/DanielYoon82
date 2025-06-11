@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
+- <b>Python</b> 
   - [Update a File Through Python Algorithm](https://github.com/DanielYoon82/UpdateFileWithPython)
+- <b>Linux</b> 
   - [File Permissions in Linux](https://github.com/DanielYoon82/FilePermissionsInLinux)
 
 <h2>📜 Certifications</h2>
