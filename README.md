@@ -6,6 +6,8 @@
   - [Update a File Through Python Algorithm](https://github.com/DanielYoon82/UpdateFileWithPython)
 - <b>Linux</b> 
   - [File Permissions in Linux](https://github.com/DanielYoon82/FilePermissionsInLinux)
+- <b>SQL</b> 
+  - [Apply filters to SQL queries](https://github.com/DanielYoon82/ApplyFiltersSQLQueries)
 
 <h2>📜 Certifications</h2>
 
