@@ -11,7 +11,7 @@
 
 <h2>📜 Certifications</h2>
 
-- [Google Cybersecurity Certficate](https://www.coursera.org/account/accomplishments/specialization/certificate/1N7E1T2Y8IP2)
+- [Google Cybersecurity Certficate](https://github.com/DanielYoon82/ApplyFiltersSQLQueries/blob/main/images/Google%20Cybersecurity%20Certificate_page-0001.jpg)
 
 
 
