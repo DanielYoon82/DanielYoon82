@@ -12,6 +12,7 @@
 <h2>📜 Certifications</h2>
 
 - [Google Cybersecurity Certficate](https://github.com/DanielYoon82/ApplyFiltersSQLQueries/blob/main/images/Google%20Cybersecurity%20Certificate_page-0001.jpg)
+- [CompTIA Security+](https://github.com/DanielYoon82/ApplyFiltersSQLQueries/blob/main/images/CompTIA%20Security%2B%20ce%20certificate.pdf)
 
 
 
