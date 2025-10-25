@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Microsoft Azure Sentinel (SIEM)</b> 
 - <b>Python</b> 
   - [Update a File Through Python Algorithm](https://github.com/DanielYoon82/UpdateFileWithPython)
 - <b>Linux</b> 
