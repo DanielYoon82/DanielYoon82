@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Sentinel (SIEM)</b>
-  - [Home Lab - SOC in Azure Using Sentintel (SIEM)](https://github.com/DanielYoon82/AzureSentinelVM/blob/main/README.md)
+  - [Home Lab - SOC in Azure Using Sentintel (SIEM)](https://github.com/DanielYoon82/AzureSentinelVM/tree/main)
 - <b>Python</b> 
   - [Update a File Through Python Algorithm](https://github.com/DanielYoon82/UpdateFileWithPython)
 - <b>Linux</b> 
