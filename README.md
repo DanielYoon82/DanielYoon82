@@ -4,7 +4,6 @@
 
 - <b>Active Directory</b>
   - [Home Lab - Managing Users and Delegation](https://github.com/DanielYoon82/ActiveDirectory)
-  - [Home Lab - Managing Computers](https://github.com/DanielYoon82/ActiveDirectoryComputers/tree/main)
 - <b>Azure Sentinel (SIEM)</b>
   - [Home Lab - SOC in Azure Using Sentintel (SIEM)](https://github.com/DanielYoon82/AzureSentinelVM/tree/main)
 - <b>Python</b> 
