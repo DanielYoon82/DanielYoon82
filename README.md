@@ -5,6 +5,8 @@
 - <b>Active Directory</b>
   - [User Management](https://github.com/DanielYoon82/ActiveDirectory)
   - [Computer and Group Management](https://github.com/DanielYoon82/ActiveDirectoryComputersGroups)
+- <b>Microsoft Windows</b>
+  - [Windows Management](https://github.com/DanielYoon82/MicrosoftWindowsManagement)
 - <b>Azure Sentinel (SIEM)</b>
   - [SOC in Azure Using Sentintel (SIEM)](https://github.com/DanielYoon82/AzureSentinelVM/tree/main)
 - <b>Python</b> 
