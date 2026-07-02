@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Jira Service Management</b>
+  - [Ticket Resolution](https://github.com/DanielYoon82/JiraServiceManagement/tree/main)
 - <b>Active Directory</b>
   - [User Management](https://github.com/DanielYoon82/ActiveDirectory)
   - [Computer and Group Management](https://github.com/DanielYoon82/ActiveDirectoryComputersGroups)
