@@ -1,6 +1,6 @@
 <h1>Hello, I'm Daniel! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
 - <b>Jira Service Management</b>
   - [Ticket Resolution](https://github.com/DanielYoon82/JiraServiceManagement/tree/main)
