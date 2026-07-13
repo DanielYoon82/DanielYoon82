@@ -7,6 +7,7 @@
 - <b>Active Directory</b>
   - [User Management](https://github.com/DanielYoon82/ActiveDirectory)
   - [Computer and Group Management](https://github.com/DanielYoon82/ActiveDirectoryComputersGroups)
+  - [Printer Deployment Using Group Policy (GPO)](https://github.com/DanielYoon82/DeployPrintersUsingGPO)
 - <b>Microsoft Windows</b>
   - [Windows Management](https://github.com/DanielYoon82/MicrosoftWindowsManagement)
 - <b>Azure Sentinel (SIEM)</b>
