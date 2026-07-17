@@ -1,4 +1,4 @@
-<h1>Hello, I'm Daniel! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hello, I'm Daniel! <br/><aProgrammer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
