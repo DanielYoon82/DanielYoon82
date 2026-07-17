@@ -1,4 +1,4 @@
-<h1>Hello, I'm Daniel! <br/><a href="https://github.com/DanielYoon82">IT Professional</a>, <a href="https://www.linkedin.com/in/daniel-yoon-029373372/">YouTuber</a></h1>
+<h1>Hello, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-yoon-029373372/">IT Professional</a>
 
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
 
