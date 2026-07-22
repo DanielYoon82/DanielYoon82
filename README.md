@@ -1,6 +1,6 @@
 <h1>Hello, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-yoon-029373372/">IT Support and Cybersecurity Specialist</a>
 
-<h2>👨‍💻 IT and Cybersecurity Projects:</h2>
+<h2>👨‍💻 Help Desk Projects:</h2>
 
 - <b>Jira Service Management</b>
   - [Ticket Resolution](https://github.com/DanielYoon82/JiraServiceManagement/tree/main)
@@ -10,7 +10,7 @@
   - [Printer Deployment Using Group Policy (GPO)](https://github.com/DanielYoon82/DeployPrintersUsingGPO)
 - <b>Microsoft Windows</b>
   - [Windows Management](https://github.com/DanielYoon82/MicrosoftWindowsManagement)
-<h2>👨‍💻 IT and Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Sentinel (SIEM)</b>
   - [SOC in Azure Using Sentintel (SIEM)](https://github.com/DanielYoon82/AzureSentinelVM/tree/main)
