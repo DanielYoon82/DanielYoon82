@@ -14,6 +14,7 @@
 
 - <b>Splunk (SIEM)</b>
   - [SOC in VM Using Splunk - False Positive - Phishing (SIEM)](https://github.com/DanielYoon82/SIEMSplunkLabs)
+  - [SOC in VM Using Splunk - True Positive - Blacklisted External URL (SIEM)](https://github.com/DanielYoon82/SIEMSplunkLabFirewall)
 - <b>Azure Sentinel (SIEM)</b>
   - [SOC in Azure Using Sentintel (SIEM)](https://github.com/DanielYoon82/AzureSentinelVM/tree/main)
 - <b>Python</b> 
