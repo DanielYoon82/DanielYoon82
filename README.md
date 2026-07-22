@@ -1,4 +1,4 @@
-<h1>Hello, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-yoon-029373372/">IT Support and Cybersecurity Specialist</a>
+<h1>Hello, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-yoon-029373372/">Aspiring IT Support and Cybersecurity Specialist</a>
 
 <h2>👨‍💻 Help Desk Projects:</h2>
 
