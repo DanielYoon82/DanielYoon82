@@ -11,6 +11,7 @@
 - <b>Microsoft Windows</b>
   - [Windows Management](https://github.com/DanielYoon82/MicrosoftWindowsManagement)
 <h2>👨‍💻 IT and Cybersecurity Projects:</h2>
+
 - <b>Azure Sentinel (SIEM)</b>
   - [SOC in Azure Using Sentintel (SIEM)](https://github.com/DanielYoon82/AzureSentinelVM/tree/main)
 - <b>Python</b> 
