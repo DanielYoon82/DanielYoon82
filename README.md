@@ -12,6 +12,8 @@
   - [Windows Management](https://github.com/DanielYoon82/MicrosoftWindowsManagement)
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Splunk (SIEM)</b>
+  - [SOC in VM Using Splunk (SIEM)](https://github.com/DanielYoon82/SIEMSplunkLabs)
 - <b>Azure Sentinel (SIEM)</b>
   - [SOC in Azure Using Sentintel (SIEM)](https://github.com/DanielYoon82/AzureSentinelVM/tree/main)
 - <b>Python</b> 
