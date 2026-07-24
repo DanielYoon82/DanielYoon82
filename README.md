@@ -17,6 +17,8 @@
   - [SOC in VM Using Splunk - True Positive - Blacklisted External URL (SIEM)](https://github.com/DanielYoon82/SIEMSplunkLabFirewall)
 - <b>Azure Sentinel (SIEM)</b>
   - [SOC in Azure Using Sentintel (SIEM)](https://github.com/DanielYoon82/AzureSentinelVM/tree/main)
+- - <b>Azure Sentinel (SIEM)</b>
+  - [Wireshark - Investigating Phishing](https://github.com/DanielYoon82/WiresharkInspectingEmailsAttachments)
 - <b>Python</b> 
   - [Update a File Through Python Algorithm](https://github.com/DanielYoon82/UpdateFileWithPython)
 - <b>Linux</b> 
