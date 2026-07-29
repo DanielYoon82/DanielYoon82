@@ -5,8 +5,8 @@
 - <b>Jira Service Management</b>
   - [Ticket Resolution](https://github.com/DanielYoon82/JiraServiceManagement/tree/main)
 - <b>Active Directory</b>
-  - [User Management](https://github.com/DanielYoon82/ActiveDirectory)
-  - [Computer and Group Management](https://github.com/DanielYoon82/ActiveDirectoryComputersGroups)
+  - [User Administration](https://github.com/DanielYoon82/ActiveDirectory)
+  - [Computer and Group Policy Management](https://github.com/DanielYoon82/ActiveDirectoryComputersGroups)
   - [Printer Deployment Using Group Policy (GPO)](https://github.com/DanielYoon82/DeployPrintersUsingGPO)
 - <b>Microsoft Windows</b>
   - [Windows Management](https://github.com/DanielYoon82/MicrosoftWindowsManagement)
