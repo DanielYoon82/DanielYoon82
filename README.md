@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Help Desk Projects:</h2>
 
-- <b>Jira Service Management</b>
-  - [Ticketing Management](https://github.com/DanielYoon82/JiraServiceManagement/tree/main)
 - <b>Active Directory</b>
   - [User Administration](https://github.com/DanielYoon82/ActiveDirectory)
   - [Computer and Group Policy Management](https://github.com/DanielYoon82/ActiveDirectoryComputersGroups)
   - [Printer Deployment Using Group Policy (GPO)](https://github.com/DanielYoon82/DeployPrintersUsingGPO)
 - <b>Microsoft Windows</b>
   - [Windows Management](https://github.com/DanielYoon82/MicrosoftWindowsManagement)
+- <b>Jira Service Management</b>
+  - [Ticketing Management](https://github.com/DanielYoon82/JiraServiceManagement/tree/main)
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Splunk (SIEM)</b>
